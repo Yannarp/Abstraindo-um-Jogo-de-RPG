@@ -1,0 +1,16 @@
+C:\Users\yanna\abstraindojogo\bin\Debug\net5.0\abstraindojogo.exe
+C:\Users\yanna\abstraindojogo\bin\Debug\net5.0\abstraindojogo.deps.json
+C:\Users\yanna\abstraindojogo\bin\Debug\net5.0\abstraindojogo.runtimeconfig.json
+C:\Users\yanna\abstraindojogo\bin\Debug\net5.0\abstraindojogo.runtimeconfig.dev.json
+C:\Users\yanna\abstraindojogo\bin\Debug\net5.0\abstraindojogo.dll
+C:\Users\yanna\abstraindojogo\bin\Debug\net5.0\ref\abstraindojogo.dll
+C:\Users\yanna\abstraindojogo\bin\Debug\net5.0\abstraindojogo.pdb
+C:\Users\yanna\abstraindojogo\obj\Debug\net5.0\abstraindojogo.csproj.AssemblyReference.cache
+C:\Users\yanna\abstraindojogo\obj\Debug\net5.0\abstraindojogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanna\abstraindojogo\obj\Debug\net5.0\abstraindojogo.AssemblyInfoInputs.cache
+C:\Users\yanna\abstraindojogo\obj\Debug\net5.0\abstraindojogo.AssemblyInfo.cs
+C:\Users\yanna\abstraindojogo\obj\Debug\net5.0\abstraindojogo.csproj.CoreCompileInputs.cache
+C:\Users\yanna\abstraindojogo\obj\Debug\net5.0\abstraindojogo.dll
+C:\Users\yanna\abstraindojogo\obj\Debug\net5.0\ref\abstraindojogo.dll
+C:\Users\yanna\abstraindojogo\obj\Debug\net5.0\abstraindojogo.pdb
+C:\Users\yanna\abstraindojogo\obj\Debug\net5.0\abstraindojogo.genruntimeconfig.cache
